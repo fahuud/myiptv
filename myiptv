@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 group-title="PAKISTAN",ARY NEWS
+http://158.69.228.195:1935/testmob/ngrp:myStream_all/chunklist_w1278163872_b539520.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY QTV
+http://158.69.229.30:1935/ARYQTV/myStream/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN",ARY MUSIC
+http://149.202.205.24:1935/ARYMUSIK/myStream/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PTV World
+http://app.pakistanvision.tv:1935/live/8090/player.m3u8
+#EXTINF:-1 group-title="PAKISTAN",PTV News
+http://app.pakistanvision.tv:1935/live/PTVnews/player.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Hum TV
+rtmp://cdn.ebound.tv:1935/tv?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDE1IDc6MTA6NTAgUE0maGFzaF92YWx1ZT1ST2M5ZlVweFFTdVhJSnpVblhSSitnPT0mdmFsaWRtaW51dGVzPTIyJmlkPTE=/humtv
+#EXTINF:-1 group-title="PAKISTAN",Hum TV2
+https://www.youtube.com/channel/UC0VgGEUuZpa8G7HNBUbJTtQ
+#EXTINF:-1 group-title="PAKISTAN",PTV Home
+http://app.pakistanvision.tv:1935/live/PTVhome/player.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Geo News
+http://stream.jeem.tv/geo/geonews/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Geo Entertainment
+https://stream1.jeem.tv/geo/geoentertainmentofficial/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN",APlus
+http://dcunilive27-lh.akamaihd.net/i/dclive_1@316723/master.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Dynya News
+http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Samaa TV
+http://samaatr.videocdn.scaleengine.net/samaatr-live/play/samaatr_264k.stream/playlist.m3u8
+#EXTINF:-1 group-title="PAKISTAN",Bol TV
+https://www.youtube.com/watch?v=V6zyfwA3Cs4
+#EXTINF:-1 group-title="PAKISTAN",Hum SItaray
+rtmp://cdn.ebound.tv:1935/tv?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDE1IDc6MTI6NDQgUE0maGFzaF92YWx1ZT1EUTRraS9VMlFFaFU4bFNGYjRWV3NBPT0mdmFsaWRtaW51dGVzPTIyJmlkPTE=/hum2
 #EXTINF:-1 tvg-name="AR:BeinSports 1 SD" tvg-logo="http://logo.ndasat.com/iptv/images/21337_111.png" group-title="{BOUQUET_NAME}",AR:BeinSports 1 SD
 http://212.8.253.47:88/329056230761828/329056230761828/1072
 #EXTINF:-1 tvg-name="AR:BeinSports 2 SD" tvg-logo="http://logo.ndasat.com/iptv/images/38610_112.png" group-title="{BOUQUET_NAME}",AR:BeinSports 2 SD
@@ -13,86 +43,10 @@ http://212.8.253.47:88/329056230761828/329056230761828/1071
 http://212.8.253.47:88/329056230761828/329056230761828/77
 #EXTINF:-1 tvg-name="AR:BeinSports 7 SD" tvg-logo="http://logo.ndasat.com/iptv/images/84881_117.png" group-title="{BOUQUET_NAME}",AR:BeinSports 7 SD
 http://212.8.253.47:88/329056230761828/329056230761828/78
-#EXTINF:-1 tvg-name="Samira Tv" tvg-logo="http://logo.ndasat.com/iptv/images/4870_samira.jpg" group-title="{BOUQUET_NAME}",Samira Tv
-http://212.8.253.47:88/329056230761828/329056230761828/449
-#EXTINF:-1 tvg-name="EchoroukBenna" tvg-logo="http://logo.ndasat.com/iptv/images/88968_echorokbena.jpg" group-title="{BOUQUET_NAME}",EchoroukBenna
-http://212.8.253.47:88/329056230761828/329056230761828/1044
-#EXTINF:-1 tvg-name="Dzair TV" tvg-logo="http://logo.ndasat.com/iptv/images/31877_157.png" group-title="{BOUQUET_NAME}",Dzair TV
-http://212.8.253.47:88/329056230761828/329056230761828/446
-#EXTINF:-1 tvg-name="dzair news" tvg-logo="http://logo.ndasat.com/iptv/images/39166_logomobiledzair.png" group-title="{BOUQUET_NAME}",dzair news
-http://212.8.253.47:88/329056230761828/329056230761828/565
-#EXTINF:-1 tvg-name="El Bilad News dz" tvg-logo="http://logo.ndasat.com/iptv/images/49301_biladnews.jpg" group-title="{BOUQUET_NAME}",El Bilad News dz
-http://212.8.253.47:88/329056230761828/329056230761828/428
-#EXTINF:-1 tvg-name="Chams TV" tvg-logo="http://logo.ndasat.com/iptv/images/83843_kbc.jpg" group-title="{BOUQUET_NAME}",Chams TV
-http://212.8.253.47:88/329056230761828/329056230761828/533
-#EXTINF:-1 tvg-name="El Djazaria Tv" tvg-logo="http://logo.ndasat.com/iptv/images/11780_496.png" group-title="{BOUQUET_NAME}",El Djazaria Tv
-http://212.8.253.47:88/329056230761828/329056230761828/433
-#EXTINF:-1 tvg-name="Beur Tv" tvg-logo="http://logo.ndasat.com/iptv/images/12229_beur.png" group-title="{BOUQUET_NAME}",Beur Tv
-http://212.8.253.47:88/329056230761828/329056230761828/563
-#EXTINF:-1 tvg-name="Bahia Tv" tvg-logo="http://logo.ndasat.com/iptv/images/82610_bahia.png" group-title="{BOUQUET_NAME}",Bahia Tv
-http://212.8.253.47:88/329056230761828/329056230761828/1563
-#EXTINF:-1 tvg-name="Al Adjwaa" tvg-logo="http://logo.ndasat.com/iptv/images/97464_ajwaa.jpg" group-title="{BOUQUET_NAME}",Al Adjwaa
-http://212.8.253.47:88/329056230761828/329056230761828/2158
 #EXTINF:-1 tvg-name="Bein Drama 1" tvg-logo="" group-title="{BOUQUET_NAME}",Bein Drama 1
 http://212.8.253.47:88/329056230761828/329056230761828/3603
-#EXTINF:-1 tvg-name="DZ:Al Hayat" tvg-logo="" group-title="{BOUQUET_NAME}",DZ:Al Hayat
-http://212.8.253.47:88/329056230761828/329056230761828/3602
-#EXTINF:-1 tvg-name="Numedia News" tvg-logo="http://logo.ndasat.com/iptv/images/65880_numedianews.jpg" group-title="{BOUQUET_NAME}",Numedia News
-http://212.8.253.47:88/329056230761828/329056230761828/1422
-#EXTINF:-1 tvg-name="Al Magharibia" tvg-logo="http://logo.ndasat.com/iptv/images/10591_almagharibiya.jpg" group-title="{BOUQUET_NAME}",Al Magharibia
-http://212.8.253.47:88/329056230761828/329056230761828/430
-#EXTINF:-1 tvg-name="Almagharibiya2" tvg-logo="http://logo.ndasat.com/iptv/images/95722_naharlaki.jpg" group-title="{BOUQUET_NAME}",Almagharibiya2
-http://212.8.253.47:88/329056230761828/329056230761828/1043
 #EXTINF:-1 tvg-name="TV CORAN" tvg-logo="http://logo.ndasat.com/iptv/images/24088_entv_5_95x92.gif" group-title="{BOUQUET_NAME}",TV CORAN
 http://212.8.253.47:88/329056230761828/329056230761828/972
-#EXTINF:-1 tvg-name="Tamazigh" tvg-logo="http://logo.ndasat.com/iptv/images/7018_tamazighalg.jpg" group-title="{BOUQUET_NAME}",Tamazigh
-http://212.8.253.47:88/329056230761828/329056230761828/561
-#EXTINF:-1 tvg-name="Berbere TV" tvg-logo="http://logo.ndasat.com/iptv/images/96635_308_medium.png" group-title="{BOUQUET_NAME}",Berbere TV
-http://212.8.253.47:88/329056230761828/329056230761828/1550
-#EXTINF:-1 tvg-name="Berbere Jeunesse" tvg-logo="http://logo.ndasat.com/iptv/images/28036_berbereJeunesse_95x85.gif" group-title="{BOUQUET_NAME}",Berbere Jeunesse
-http://212.8.253.47:88/329056230761828/329056230761828/1551
-#EXTINF:-1 tvg-name="Berbere Music" tvg-logo="http://logo.ndasat.com/iptv/images/39317_berbereMusique_95x85.gif" group-title="{BOUQUET_NAME}",Berbere Music
-http://212.8.253.47:88/329056230761828/329056230761828/1552
-#EXTINF:-1 tvg-name="National 1" tvg-logo="http://logo.ndasat.com/iptv/images/89568_1.png" group-title="{BOUQUET_NAME}",National 1
-http://212.8.253.47:88/329056230761828/329056230761828/434
-#EXTINF:-1 tvg-name="National 2" tvg-logo="http://logo.ndasat.com/iptv/images/83537_2.png" group-title="{BOUQUET_NAME}",National 2
-http://212.8.253.47:88/329056230761828/329056230761828/435
-#EXTINF:-1 tvg-name="El Hiwar Tounsi" tvg-logo="http://logo.ndasat.com/iptv/images/93339_hiwartounsi.jpg" group-title="{BOUQUET_NAME}",El Hiwar Tounsi
-http://212.8.253.47:88/329056230761828/329056230761828/445
-#EXTINF:-1 tvg-name="Tounesna" tvg-logo="http://logo.ndasat.com/iptv/images/74929_8.png" group-title="{BOUQUET_NAME}",Tounesna
-http://212.8.253.47:88/329056230761828/329056230761828/443
-#EXTINF:-1 tvg-name="M-Tunisie" tvg-logo="http://logo.ndasat.com/iptv/images/64275_mtunisia.jpg" group-title="{BOUQUET_NAME}",M-Tunisie
-http://212.8.253.47:88/329056230761828/329056230761828/1418
-#EXTINF:-1 tvg-name="El Djanoubia" tvg-logo="http://logo.ndasat.com/iptv/images/66074_7.png" group-title="{BOUQUET_NAME}",El Djanoubia
-http://212.8.253.47:88/329056230761828/329056230761828/441
-#EXTINF:-1 tvg-name="Attasia" tvg-logo="http://logo.ndasat.com/iptv/images/11846_attasia.jpg" group-title="{BOUQUET_NAME}",Attasia
-http://212.8.253.47:88/329056230761828/329056230761828/438
-#EXTINF:-1 tvg-name="Nessma" tvg-logo="http://logo.ndasat.com/iptv/images/35656_5.png" group-title="{BOUQUET_NAME}",Nessma
-http://212.8.253.47:88/329056230761828/329056230761828/436
-#EXTINF:-1 tvg-name="Hannibal Tv" tvg-logo="http://logo.ndasat.com/iptv/images/28822_6.png" group-title="{BOUQUET_NAME}",Hannibal Tv
-http://212.8.253.47:88/329056230761828/329056230761828/437
-#EXTINF:-1 tvg-name="Telvza" tvg-logo="http://logo.ndasat.com/iptv/images/88266_telvza.jpg" group-title="{BOUQUET_NAME}",Telvza
-http://212.8.253.47:88/329056230761828/329056230761828/440
-#EXTINF:-1 tvg-name="Zaytoona" tvg-logo="http://logo.ndasat.com/iptv/images/19601_ar-icone.png" group-title="{BOUQUET_NAME}",Zaytoona
-http://212.8.253.47:88/329056230761828/329056230761828/883
-#EXTINF:-1 tvg-name="Carthage Tunis" tvg-logo="http://logo.ndasat.com/iptv/images/28368_hidaya.jpg" group-title="{BOUQUET_NAME}",Carthage Tunis
-http://212.8.253.47:88/329056230761828/329056230761828/1531
-#EXTINF:-1 tvg-name="Almustakila" tvg-logo="http://logo.ndasat.com/iptv/images/48061_almostakila.jpg" group-title="{BOUQUET_NAME}",Almustakila
-http://212.8.253.47:88/329056230761828/329056230761828/1022
-#EXTINF:-1 tvg-name="Al Masriyah" tvg-logo="http://logo.ndasat.com/iptv/images/99923_masriya1.jpg" group-title="{BOUQUET_NAME}",Al Masriyah
-http://212.8.253.47:88/329056230761828/329056230761828/832
-#EXTINF:-1 tvg-name="AlThaniya" tvg-logo="http://logo.ndasat.com/iptv/images/19098_masriya2.png" group-title="{BOUQUET_NAME}",AlThaniya
-http://212.8.253.47:88/329056230761828/329056230761828/840
-#EXTINF:-1 tvg-name="BO:Other8" tvg-logo="http://logo.ndasat.com/iptv/images/83442_canada.jpg" group-title="{BOUQUET_NAME}",BO:Other8
-http://212.8.253.47:88/329056230761828/329056230761828/2637
-#EXTINF:-1 tvg-name="CBC" tvg-logo="http://logo.ndasat.com/iptv/images/80242_23.png" group-title="{BOUQUET_NAME}",CBC
-http://212.8.253.47:88/329056230761828/329056230761828/409
-#EXTINF:-1 tvg-name="CBC Drama" tvg-logo="http://logo.ndasat.com/iptv/images/14889_22.png" group-title="{BOUQUET_NAME}",CBC Drama
-http://212.8.253.47:88/329056230761828/329056230761828/411
-#EXTINF:-1 tvg-name="CBC Extra e" tvg-logo="http://logo.ndasat.com/iptv/images/59628_767.png" group-title="{BOUQUET_NAME}",CBC Extra e
-http://212.8.253.47:88/329056230761828/329056230761828/410
-#EXTINF:-1 tvg-name="CBC Sofra" tvg-logo="http://logo.ndasat.com/iptv/images/33415_760.png" group-title="{BOUQUET_NAME}",CBC Sofra
-http://212.8.253.47:88/329056230761828/329056230761828/412
 #EXTINF:-1 tvg-name="Dmc" tvg-logo="http://logo.ndasat.com/iptv/images/3210_dmc.jpg" group-title="{BOUQUET_NAME}",Dmc
 http://212.8.253.47:88/329056230761828/329056230761828/2398
 #EXTINF:-1 tvg-name="Dmc-Drama" tvg-logo="http://logo.ndasat.com/iptv/images/33746_dmcdrama.jpg" group-title="{BOUQUET_NAME}",Dmc-Drama
